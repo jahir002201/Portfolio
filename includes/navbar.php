@@ -18,6 +18,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact</a>
                 </li>
+                <li class="nav-item">
+                <a href="add_project.php" class="btn btn-primary">Add New Project</a>
+                </li>
             </ul>
         </div>
     </div>
